@@ -35,13 +35,13 @@ This concept is now under heavy development and can hopefully be built at end of
 
 Two similar concepts are currently being developed. Both are based on aluminium profiles, which should allow an easy adjustment of the suspension lengths.
 
-<h4>Concept Angle Connection</h4>
+<h4>Concept with Angle Connection</h4>
 
 The first concept connects the bogie and the rear wheel via a 90 degree angle.
 
 ![Concept-Rocker-Bogie-Angle](00-Docs/Pictures/2017-12-10-Concept-Rocker-Bogie-01.png)
 
-<h4>Straight Connection</h4>
+<h4>Concept with Straight Connection</h4>
 
 The first concept connects the bogie and the rear wheel via only two profiles positioned at an angle of 90 degrees.
 On the positive side, only two profiles are needed to connect the bogie and the rear wheel with the rocker bearing. However, it can happen faster that the middle wheel collides with the connection between rocker bearing and bogie or rocker bearing and rear wheel if the suspension is shortened.
