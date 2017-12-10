@@ -37,13 +37,13 @@ Two similar concepts are currently being developed. Both are based on aluminium 
 
 <h4>Concept with Angle Connection</h4>
 
-The first concept connects the bogie and the rear wheel via a 90 degree angle.
+The first concept connects the bogie and the rear wheel via only two profiles positioned at an angle of 90 degrees.
+On the positive side, only two profiles are needed to connect the bogie and the rear wheel with the rocker bearing. However, it can happen faster that the middle wheel collides with the connection between rocker bearing and bogie or rocker bearing and rear wheel if the suspension is shortened.
 
 ![Concept-Rocker-Bogie-Angle](00-Docs/Pictures/2017-12-10-Concept-Rocker-Bogie-01.png)
 
 <h4>Concept with Straight Connection</h4>
 
-The first concept connects the bogie and the rear wheel via only two profiles positioned at an angle of 90 degrees.
-On the positive side, only two profiles are needed to connect the bogie and the rear wheel with the rocker bearing. However, it can happen faster that the middle wheel collides with the connection between rocker bearing and bogie or rocker bearing and rear wheel if the suspension is shortened.
+The second concept combines the different elements only with vertical or horizontal profiles. The advantage is that the middle wheel has much more room for manoeuvre before it collides with a profile. Furthermore, no cube connectors are required to connect the profiles with the rocker storage. The disadvantage is that more parts are needed.
 
 ![Concept-Rocker-Bogie-Straight](00-Docs/Pictures/2017-12-10-Concept-Rocker-Bogie-02.png)
