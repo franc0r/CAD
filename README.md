@@ -49,4 +49,7 @@ The second concept combines the different elements only with vertical or horizon
 ![Concept-Rocker-Bogie-Straight](00-Docs/Pictures/2017-12-10-Concept-Rocker-Bogie-02.png)
 
 <h3>Current State</h3>
+
 ![Current-State](00-Docs/Pictures/2017-12-16-Rocker-Bogie-01.png)
+
+Current state of the robot 
