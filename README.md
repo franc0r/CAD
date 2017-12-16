@@ -47,3 +47,6 @@ On the positive side, only two profiles are needed to connect the bogie and the 
 The second concept combines the different elements only with vertical or horizontal profiles. The advantage is that the middle wheel has much more room for manoeuvre before it collides with a profile. Furthermore, no cube connectors are required to connect the profiles with the rocker storage. The disadvantage is that more parts are needed.
 
 ![Concept-Rocker-Bogie-Straight](00-Docs/Pictures/2017-12-10-Concept-Rocker-Bogie-02.png)
+
+<h3>Current State</h3>
+![Current-State](00-Docs/Pictures/2017-12-16-Rocker-Bogie-01.png)
