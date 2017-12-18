@@ -33,23 +33,11 @@ This concept is now under heavy development and can hopefully be built at end of
 
 <h3>Current Progress</h3>
 
-Two similar concepts are currently being developed. Both are based on aluminium profiles, which should allow an easy adjustment of the suspension lengths.
+It was decided to move the suspension with angled profiles. This concept is now being worked out and the production of the components will start mid/end of December. The schedule provides for the mechanics to be assembled by the end of January.
 
-<h4>Concept with Angle Connection</h4>
 
-The first concept connects the bogie and the rear wheel via only two profiles positioned at an angle of 90 degrees.
-On the positive side, only two profiles are needed to connect the bogie and the rear wheel with the rocker bearing. However, it can happen faster that the middle wheel collides with the connection between rocker bearing and bogie or rocker bearing and rear wheel if the suspension is shortened.
+![Current-State-2017-12-16](00-Docs/Pictures/2017-12-16-Rocker-Bogie-01.png)
+Rocker-Bogie Robot 2017-12-16
 
-![Concept-Rocker-Bogie-Angle](00-Docs/Pictures/2017-12-10-Concept-Rocker-Bogie-01.png)
-
-<h4>Concept with Straight Connection</h4>
-
-The second concept combines the different elements only with vertical or horizontal profiles. The advantage is that the middle wheel has much more room for manoeuvre before it collides with a profile. Furthermore, no cube connectors are required to connect the profiles with the rocker storage. The disadvantage is that more parts are needed.
-
-![Concept-Rocker-Bogie-Straight](00-Docs/Pictures/2017-12-10-Concept-Rocker-Bogie-02.png)
-
-<h3>Current State</h3>
-
-![Current-State](00-Docs/Pictures/2017-12-16-Rocker-Bogie-01.png)
-
-Current state of the robot 
+![Current-State-2017-12-18](00-Docs/Pictures/2017-12-18-Rocker-Bogie-01.png)
+Rocker Bogie Robot 2017-12-18
