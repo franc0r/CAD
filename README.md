@@ -40,4 +40,7 @@ It was decided to move the suspension with angled profiles. This concept is now 
 Rocker-Bogie Robot 2017-12-16
 
 ![Current-State-2017-12-18](00-Docs/Pictures/2017-12-18-Rocker-Bogie-01.png)
-Rocker Bogie Robot 2017-12-18
+Rocker-Bogie Robot 2017-12-18
+
+![Current-State-2017-12-19](00-Docs/Pictures/2017-12-19-Rocker-Bogie-01.jpg)
+Rocker-Bogie Robot 2017-12-19 with differential drive
