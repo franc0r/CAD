@@ -23,7 +23,7 @@ The second concept was a very simple platform with 4 wheels and no suspension. T
 This kind of concept is the first which was build with simple aluminium profiles. But due to the fact, that the terrain mobility is very limited another concept was needed.
 
 ![Mortys-Mule](00-Docs/Pictures/2017-12-02-Mortys-Mule.png)
-2017-12-02: Morty's Mule Robot build with aluminium profiles
+<br>2017-12-02: Morty's Mule Robot build with aluminium profiles
 
 <h4>3. Concept: Rocker-Bogie Robot</h4>
 
