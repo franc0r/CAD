@@ -1,4 +1,4 @@
-<h1>FRANCOR - Frankonian Open Robotics</h1>
+<h1>FRANCOR - Franconian Open Robotics</h1>
 <h2>CAD - Computer Aided Design Data of Robots</h2>
 
 <h3>Overview</h3>
