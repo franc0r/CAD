@@ -47,3 +47,7 @@ Rocker-Bogie Robot 2017-12-18
 
 ![Current-State-2017-12-19](00-Docs/Pictures/2017-12-19-Rocker-Bogie-01.jpg)
 Rocker-Bogie Robot 2017-12-19 with differential drive
+
+![Current-State-2018-01-11](00-Docs/Pictures/2018-01-11-Rocker-Bogie-01.jpg)
+Rocker-Bogie Robot 2018-01-11 with differential drive and new connection to the
+rocker.
