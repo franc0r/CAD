@@ -38,8 +38,8 @@ This concept is now under heavy development and can hopefully be built at end of
 
 It was decided to move the suspension with angled profiles. This concept is now being worked out and the production of the components will start mid/end of December. The schedule provides for the mechanics to be assembled by the end of January.
 
-![Current-State-2018-01-31](00-Docs/Pictures/2018-01-31-Rocker-Bogie-01.jpg)
-Rocker-Bogie Robot 2018-01-17 with bogie connector reinforcemend.
+![Current-State-2018-01-31](00-Docs/Pictures/2018-02-08-Rocker-Bogie-01.jpg)
+Rocker-Bogie Robot 2018-01-17 with bogie connector reinforcemend and new stronger differential.
 
 
 ![Real-Rocker-Bogie-Robot](00-Docs/Pictures/2018-01-20-real-rocker-bogie.jpg)
